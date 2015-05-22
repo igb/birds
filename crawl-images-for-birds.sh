@@ -1,0 +1,1 @@
+xargs -I term ./get-image-for-term.sh term
