@@ -216,11 +216,6 @@ Riparia riparia
 Collared scops owl
 ekbo tkbk T[bZ{
 Otus bakkamoena
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼Punjabi names of birds of Punjab Page 1
-￼￼Sr. No.
-English Name
-￼￼Punjabi Name
-￼Scientific Name
 55
 Common babbler
 ;/oQVh
@@ -437,11 +432,6 @@ Gyps fulvus
 Gullbilled tern
 p[bQV sj/oh
 Gelochelidon nilotica
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼Punjabi names of birds of Punjab Page 2
-￼￼Sr. No.
-English Name
-￼￼Punjabi Name
-￼Scientific Name
 109
 Hobby
 S'Nh pfjoh
@@ -662,11 +652,6 @@ Caprimulgus asiaticus
 Little ringed plover
 wotk
 Charadrius dubius
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼Punjabi names of birds of Punjab Page 3
-￼￼Sr. No.
-English Name
-￼￼Punjabi Name
-￼Scientific Name
 164
 Little stint
 gBbtk
@@ -883,11 +868,6 @@ Streptopelia decapcto
 Ringtailed or Pallas fishing eagle
 e[ob iK wS/ok T[ekp
 Haliaeetus leucoryphus
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼Punjabi names of birds of Punjab Page 4
-￼￼Sr. No.
-English Name
-￼￼Punjabi Name
-￼Scientific Name
 218
 River chat or whitecapped redstart
 dfonkJh rkbVh
@@ -1104,11 +1084,6 @@ Aythya fuligula
 Turkestan black headed wagtail
 ekbk f;o ww'bk
 Motacilla flava melanogrisea
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼Punjabi names of birds of Punjab Page 5
-￼￼Sr. No.
-English Name
-￼￼Punjabi Name
-￼Scientific Name
 272
 Upland Buzzard
 gjkVh Nh;k
@@ -1249,4 +1224,3 @@ Vanellus malabaricus
 Yellowfronted pied or Maharatta woodpecker
 ;[Bfjoh eZmc'Vk iK N'ek
 Picoides mahrattensis
-￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼Punjabi names of birds of Punjab Page 6
