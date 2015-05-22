@@ -1,0 +1,1 @@
+cat birds-of-punjab.txt | awk '{if (++count%4==0) print $0;} '
