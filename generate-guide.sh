@@ -16,3 +16,5 @@ do
 done
 echo "</body></html>" >> birds.html
 
+python /Users/ibrown/Documents/TwitterSummaryCardGenerator/src/python/TwitterSummaryCardGenerator.py -f ./birds.html -t igb -d ./
+
