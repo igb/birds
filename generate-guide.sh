@@ -11,7 +11,7 @@ do
    echo "Processing $f file..."
    X=`echo $f |  sed -e "s/-/ /g" | sed -e "s/.jpg//g" | sed -e "s/images\///g"`
    echo "<div class='float'>" >> birds.html 
-   echo "<a class='reference' href='https://en.wikipedia.org/wiki/$X'><img src='$f' width='200' height='200' alt='$X' /></a><br/>" >> birds.html
+   echo "<a class='reference' href='https://en.wikipedia.org/wiki/$X'><img src='$f' width='300' height='300' alt='$X' /></a><br/>" >> birds.html
    echo "<p><a class='reference' href='https://en.wikipedia.org/wiki/$X'><i>$X</i></a>" >> birds.html
    Y=`echo $f |  sed -e "s/.jpg/-metadata.txt/g" | sed -e "s/images/metadata/g"`
    echo "<br/>" >> birds.html
@@ -27,5 +27,5 @@ do
 done
 echo "</body></html>" >> birds.html
 
-#python /Users/ibrown/Documents/TwitterSummaryCardGenerator/src/python/TwitterSummaryCardGenerator.py -f ./birds.html -t igb -d ./
+python /Users/ibrown/Documents/TwitterSummaryCardGenerator/src/python/TwitterSummaryCardGenerator.py -f ./birds.html -t igb -d ./
 
