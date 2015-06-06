@@ -1,1 +1,2 @@
-<span class='metadata'>Photo by <a href='https://www.flickr.com/people/rushen/'>Rushen!</a><br><a href='http://creativecommons.org/licenses/by-sa/2.0/'>CC BY-SA 2.0</a></span>
+<span class='metadata'>Photo by <a href='https://www.flickr.com/people/rachidh/'>rachidH</a><br><a href='http://creativecommons.org/licenses/by-nc/2.0/'>Attribution-NonCommercial License</a></span>
+<!-- 17401665910 -->
